@@ -1,0 +1,297 @@
+body{
+    margin: 0px;
+   
+ }
+ 
+ 
+ .main{
+     width: 100%;
+     height: 100%;
+ }
+ .image1{
+     width: 100%;
+     height: 700px;
+     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Launch_Page_Starlink1_vertical_18_DESKTOP_209c4e50a1.jpg");
+     background-size: 100%;
+     background-repeat: no-repeat;
+     color: beige;
+     text-align: center;
+     margin-top: -75px;
+ 
+ 
+ }
+  .text{
+      font-family: Bold,Arial,Verdana,sans-serif;
+     display: flex;
+     list-style:none;
+     font-size: 12px;
+      
+  }
+  .text{
+     margin-right: 30px;
+  }
+  .logo{
+    margin-top: -75px;
+     margin-left: 40px;
+     width:300px ;
+     height:250px;
+    
+     
+  }
+  b{
+     margin-left: 15px;
+  } 
+  .li1{
+    padding-right: 20px;
+  }
+  
+  
+  .bar-heading{
+     width: 100%;
+     height: 80px;
+     
+     position: fixed;
+  }
+  .headtext{
+     margin-top: 50px;
+     display: flex;
+     list-style:none;
+ 
+  }
+ 
+  .new{
+    margin-left: 250px;
+    display: flex;
+    list-style:none;
+  }
+  
+  .img1{
+       color: beige;
+       background-color: antiquewhite;
+    height: 25px;
+    width: 25px;
+    margin-top: -5px;
+  }
+  .h5-heading{
+    margin-top: -1px;
+    margin-right: 20px;
+    font-family: Bold,Arial,Verdana,sans-serif;
+  }
+ 
+ 
+  .first-text{  
+      display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+ 
+ 
+     
+     margin-top: 75px;
+  }
+  .image1text2{
+    text-align: initial;
+  }
+  .imagenew-text{
+    list-style: none;
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     font-family: Bold,Arial,Verdana,sans-serif ;
+     padding-left: 140px;
+     padding-top: 270px;
+  }
+  .imagenew-text1{
+    font-size: 18px;
+    text-align: start;
+   font-family:sans-serif;
+   font-weight: 100;
+    
+  }
+  .imagenew-text2{
+    font-size:45px;
+    text-align: start;
+   font-family:sans-serif;
+ 
+  }
+  
+ 
+ 
+  .imagenew-text3{
+     
+   font-family: bold,sans-serif;
+    font-weight: 500;
+       width: 185px;
+    height: 20px;
+    color: aliceblue;
+ 
+  }
+  .image1button{
+  border-color:white ;
+ background-color:rgba(255, 222, 173, 0);
+  }
+  .image2{
+    width: 100%;
+     height: 700px;
+     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/DESKTOP_HOMEPAGE_091c26421c.jpg");
+     background-size: 100%;
+     background-repeat: no-repeat;
+     color: beige;
+     text-align: center;
+     margin-top: -23px;
+  }
+  .image2new-text{
+    list-style: none;
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     font-family: Bold,Arial,Verdana,sans-serif ;
+     padding-left: 140px;
+     padding-top: 400px;
+  }
+  .image2new-text1{
+    font-size: 18px;
+    text-align: start;
+   font-family:sans-serif;
+   font-weight: 100;
+    
+  }
+  .image2new-text2{
+    font-size:45px;
+    text-align: start;
+   font-family:sans-serif;
+   color: white
+ 
+ 
+  }
+  .image2new-text3{
+     
+   font-family: bold,sans-serif;
+    font-weight: 500;
+ 
+    color:white;
+    width: 185px;
+    height: 20px;
+ }
+ .image2button{
+    border-color:white ;
+   background-color:rgba(255, 222, 173, 0);
+ }
+ 
+ .image3{
+ 
+    width: 100%;
+     height: 700px;
+     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/Homepage_Desktop_5ebdeb0c6c.webp");
+     background-size: 100%;
+     background-repeat: no-repeat;
+     color: beige;
+     text-align: center;
+     margin-top: -23px;
+ 
+ }
+ 
+ .image3new-text{
+    list-style: none;
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     font-family: Bold,Arial,Verdana,sans-serif ;
+     padding-left: 140px;
+     padding-top: 300px;
+  }
+ 
+ .image3new-text1{
+    font-size:45px;
+    text-align: start;
+   font-family:sans-serif;
+   color: white;
+    
+ 
+  }
+  .image3new-text2{
+     
+   font-family: bold,sans-serif;
+    font-weight: 500;
+    color:white;
+    width: 185px;
+    height: 20px;
+ }
+ .image3button{
+    border-color:white ;
+   background-color:rgba(255, 222, 173, 0);
+ }
+ 
+ 
+ .image4{
+ 
+    width: 100%;
+     height: 700px;
+     background-image: url("https://sxcontent9668.azureedge.us/cms-assets/assets/S20_Chopstick_Stack_Desktop_0c016b49ec.webp");
+     background-size: 100%;
+     background-repeat: no-repeat;
+     color: beige;
+     text-align: center;
+     margin-top: -23px;
+ }
+ 
+ .image4new-text{
+    list-style: none;
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+     font-family: Bold,Arial,Verdana,sans-serif ;
+     padding-left: 140px;
+     padding-top: 300px;
+  }
+ 
+ .image4new-text1{
+    font-size:45px;
+    text-align: start;
+   font-family:sans-serif;
+   color: white;
+    
+ 
+  }
+  .image4new-text2{
+     
+   font-family: bold,sans-serif;
+    font-weight: 500;
+    color:white;
+    width: 185px;
+    height: 20px;
+ }
+ .image4button{
+    border-color:white ;
+   background-color:rgba(255, 222, 173, 0);
+ }
+ 
+ a{
+ 
+    text-decoration: none;
+    color: white;
+ 
+ }
+ 
+ footer{
+ 
+ /*display: flex;
+    justify-content: left ;*/
+    
+    background-color: black;
+     
+    font-family: sans-serif;
+    height: 100px;
+    width: 100%;
+    font-size: 12px;
+     margin-top: -8px;
+     padding-top: 30px;
+     margin-right: 50px;
+     
+    
+ }
+ .last{
+    display:flex;
+    align-content: flex-end;
+    justify-content: center;
+ }
+
